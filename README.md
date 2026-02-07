@@ -10,7 +10,7 @@ O **SentinelNet** é um launcher de monitoramento de rede e unidades desenvolvid
 * **Interface Moderna:** Construído com `CustomTkinter` para uma experiência de usuário (UX) premium.
 
 ## Tecnologias Utilizadas
-* Python 3.x
+* Python 3.14
 * CustomTkinter (Interface Gráfica)
 * Requests (Integração com API do Telegram)
 * Threading (Processamento paralelo para monitoramento sem travamentos)
