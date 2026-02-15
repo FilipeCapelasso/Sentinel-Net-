@@ -51,3 +51,5 @@ Como o Sistema Opera
 
 ---
 > **Sentinela Automação 24hrs:** A evolução do monitoramento passivo para a automação ativa.
+
+*Eu sei que o token está no código. Deixei para fins de teste, mas em um ambiente real eu usaria variáveis de ambiente (.env) por segurança*
